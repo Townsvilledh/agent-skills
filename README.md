@@ -36,9 +36,15 @@ what it changed — not by its exit code.
 
 ## Where to buy
 
-Marketplace listings (Agensi first) are packaged and in preparation — this repo is the
-canonical catalogue in the meantime. To buy a pack today or ask about one, open an
-issue here.
+**Pay per call on three.ws** — every skill is live and callable over x402 (USDC on
+Base or Solana, no account needed): Token Launch Radar $1.00/call, DeFi Agent Safety
+Pack $0.50/call, Agent Work Verification Pack $0.50/call.
+Agent page: https://three.ws/agents/b3fd8635-d2a0-431f-826f-8f4b36742e20
+
+For a one-time pack purchase instead, open an issue here.
+
+Announcements (new skills, price changes, datasets) are posted on Nostr:
+npub1vwjdaz8cl8g59lkjs956rt6pk6rsqhunpvv6ph67zuv68uyx7y6qwudqlj
 
 ## Also from the same workshop
 
